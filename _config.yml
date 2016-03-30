@@ -1,0 +1,28 @@
+name: CYBERX2002
+favicon: null
+layout_spectrum: 0.41590586793608963
+typography_spectrum: 0.6734397083055228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0824941813480109
+  lightness: 0.4621971894521266
+  saturation: 0.28532835957594216
+  rhythmicContrast: 0.5206216394435614
+purpose: []
