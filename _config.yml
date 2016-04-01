@@ -1,7 +1,7 @@
 name: CYBERX2002
 favicon: null
-layout_spectrum: 0.41590586793608963
-typography_spectrum: 0.6734397083055228
+layout_spectrum: 1
+typography_spectrum: 0.40248
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.0824941813480109
+    - '#000000'
+    - '#fefefe'
+    - '#404040'
+    - '#c0c0c0'
+    - '#858585'
+  brandStrength: 0
   lightness: 0.4621971894521266
   saturation: 0.28532835957594216
   rhythmicContrast: 0.5206216394435614
