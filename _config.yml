@@ -2,12 +2,13 @@ name: CYBERX2002
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.40248
+title: Site Test 1
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-37571647
   facebook: null
   twitter: null
 opengraph:
